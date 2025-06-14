@@ -9,6 +9,8 @@ return {
         direction = "horizontal",
         start_in_insert = true,
         persist_size = true,
+        insert_mappings = false,
+        terminal_mappings = false,
       })
     end,
   },
