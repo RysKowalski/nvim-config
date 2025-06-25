@@ -19,6 +19,8 @@ return {
         hl["PreProc"] = { fg = "#569CD6" }
 
         hl["@module"] = { fg = "#4EC9B0" }
+
+        hl["Comment"] = { fg = "#6A9955" }
       end,
     },
   },
